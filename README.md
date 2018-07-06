@@ -1,14 +1,22 @@
 # Apple WASD Keyboards—Custom Layout
 
-## System Font Symbols
+## Text
+
+RIP Vag Rounded, SF is in now. Fonts used are *SF Compact Text Light*, and *SF Compact Text Regular*.
+
+**Character Styles**
+
+**Numbers**
+
+## Symbols
 
 I made reference PDFs of the basic keyboard symbols available in Mac system fonts.
 These can be opened in Illustrator and edited/used.
 Files exported using FontExplorer X Pro.
 
-SF (SanFrancisco includes no symbols)
+SF includes no symbols. :[
 
-**Fonts**
+**Fonts in PDFs**
 
 - Apple Symbls
 - Arial Unicode MS
@@ -22,14 +30,13 @@ SF (SanFrancisco includes no symbols)
 
 ###### *Leading . denotes actual hidden system font*
 
-
 **Filename Format**
 
     <font name>; <version number>; <date>
 
-----
+---
 
-**Symbol Reference Table**
+**Symbol Reference**
 
 Symbol | Key | Unicode Name
 ------ | ---- | ---
