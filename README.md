@@ -1,16 +1,14 @@
 # Apple WASD Keyboards—Custom Layout
 
-## System Font Icons
+## System Font Symbols
 
-I made reference PDFs of the basic keyboard icons available in Mac system fonts.
+I made reference PDFs of the basic keyboard symbols available in Mac system fonts.
+These can be opened in Illustrator and edited/used.
+Files exported using FontExplorer X Pro.
 
-These can be opened in Illustrator and edited as paths.
+SF (SanFrancisco includes no symbols)
 
-SF (SanFrancisco)
-
-PDF files exported using FontExplorer X Pro.
-
-**Fonts Included:**
+**Fonts**
 
 - Apple Symbls
 - Arial Unicode MS
@@ -25,11 +23,13 @@ PDF files exported using FontExplorer X Pro.
 ###### *Leading . denotes actual hidden system font*
 
 
-**Filename Format:**
+**Filename Format**
 
     <font name>; <version number>; <date>
 
 ----
+
+**Symbol Reference Table**
 
 Symbol | Key | Unicode Name
 ------ | ---- | ---
@@ -48,7 +48,16 @@ Symbol | Key | Unicode Name
 ⇥      | Tab | RIGHTWARDS ARROW TO BAR
 fn     | Function | N/A
 
-*If above symbols do not render, upgrade your font game.*
+- The Option Key on new keyboards seem to use the alternative key symbol.
+It is upside down in all fonts except *Apple Symbols*.
+- Enter ≠ Return
+  - Apple uses the left hooked arrow rather than the actual return symbol.
+- Backspace ≠ Delete
+  - The Backspace Key is labeled with the text: "Delete".
+  - The Delete Key is labeled with the "Delete" symbol.
+- The Function Key has no symbol.
+
+## Additional Resources
 
 https://developer.apple.com/fonts/
 
