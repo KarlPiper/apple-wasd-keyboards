@@ -1,5 +1,7 @@
 # Apple WASD Keyboards—Custom Layout
 
+![Completed keyboard template](https://raw.githubusercontent.com/KarlPiper/apple-wasd-keyboards/master/Preview.png)
+
 ## Character Styles
 
 * Normal—sets SF Compact Text Light, inherited by other styles
