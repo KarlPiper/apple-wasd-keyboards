@@ -31,6 +31,7 @@ Basic set of keyboard symbols were exported from the following fonts:
 * Menlo Bold
 
 **Symbol Reference Table**
+
 Symbol | Key | Unicode Name
 ------ | ---- | ---
 ⌘      | Command | PLACE OF INTEREST SIGN
