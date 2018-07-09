@@ -68,3 +68,7 @@ fn     | Function | N/A
 - https://designforhackers.com/blog/san-francisco-font/
 - https://developer.apple.com/videos/play/wwdc2015/804/
 - https://developer.apple.com/videos/play/wwdc2016/803/
+- https://github.com/aasmith/mac-wasd-keyboard
+- https://github.com/kreso22/WASD-keyboard---MAC-layout
+- https://github.com/jasonbraun/WASD-Mac-Layout
+- https://github.com/stevenlordiam/WASDkeyboard_for_mac
