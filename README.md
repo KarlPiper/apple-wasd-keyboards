@@ -35,6 +35,10 @@ Basic set of keyboard symbols were exported from the following fonts:
 * Menlo Regular
 * Menlo Bold
 
+## Touchbar Symbols
+
+I located the .car assets file for the Touchbar's symbols, and used them instead of drawing my own.
+
 ## Symbol Reference Table
 
 Symbol | Key | Unicode Name
