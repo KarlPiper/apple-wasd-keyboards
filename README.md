@@ -1,6 +1,6 @@
 # Apple WASD Keyboards—Custom Layout
 
-**Character Styles**
+## Character Styles
 
 * Normal—sets SF Compact Text Light, inherited by other styles
 * Modifiers—keys with full words printed out (except media keys)
@@ -11,17 +11,17 @@
 * Numerator—upper character on number keys, smaller
 * Media keys—media key cluster + numpad “clear” and “enter”
 
-**Alignment**
+## Alignment
 
 Some keys required optical centering, e.g. J, L, Q, P, F, delete.
 
-**Stylistic Alternates**
+## Stylistic Alternates
 
 I chose to use the straight 6, straight 9, and slashed 0.
 “*” was switched out for SF Mono Light.
 Actual x, +, -, / characters used on numpad.
 
-**System Font Symbols**
+## System Font Symbols
 
 Basic set of keyboard symbols were exported from the following fonts:
 
@@ -35,7 +35,7 @@ Basic set of keyboard symbols were exported from the following fonts:
 * Menlo Regular
 * Menlo Bold
 
-**Symbol Reference Table**
+## Symbol Reference Table
 
 Symbol | Key | Unicode Name
 ------ | ---- | ---
@@ -62,7 +62,7 @@ fn     | Function | N/A
 	* The delete key has the delete symbol
 * The Function Key has no symbol
 
-**Resources**
+## Resources
 
 - https://developer.apple.com/fonts/
 - https://designforhackers.com/blog/san-francisco-font/
