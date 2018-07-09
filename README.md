@@ -72,3 +72,4 @@ fn     | Function | N/A
 - https://github.com/kreso22/WASD-keyboard---MAC-layout
 - https://github.com/jasonbraun/WASD-Mac-Layout
 - https://github.com/stevenlordiam/WASDkeyboard_for_mac
+- https://support.wasdkeyboards.com/hc/en-us/articles/115007847008-Download-Template-Files
