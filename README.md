@@ -1,43 +1,36 @@
 # Apple WASD Keyboards—Custom Layout
-
-## Text
-
-RIP Vag Rounded, SF is in now. Fonts used are *SF Compact Text Light*, and *SF Compact Text Regular*.
-
 **Character Styles**
+* Normal—sets SF Compact Text Light, inherited by other styles
+* Modifiers—keys with full words printed out (except media keys)
+* Functions—F keys
+* Stacked Keys—keys with two stacked legends (not numbers)
+* Stacked Keys (tall)—used on {, }, |
+* Denominator—lower character on number keys, larger
+* Numerator—upper character on number keys, smaller
+* Media keys—media key cluster + numpad “clear” and “enter”
 
-**Numbers**
+**Alignment**
+Some keys required optical centering, e.g. J, L, Q, P, F, delete.
 
-## Symbols
+**Stylistic Alternates**
+I chose to use the straight 6, straight 9, and slashed 0.
+“*” was switched out for SF Mono Light.
+Actual x, +, -, / characters used on numpad.
 
-I made reference PDFs of the basic keyboard symbols available in Mac system fonts.
-These can be opened in Illustrator and edited/used.
-Files exported using FontExplorer X Pro.
+**System Font Symbols**
+Basic set of keyboard symbols were exported from the following fonts:
 
-SF includes no symbols. :[
+* Apple Symbols
+* Arial Unicode MS
+* .Keyboard
+* Lucida Grande
+* Lucida Grande Bold
+* .Lucida Grande UI
+* .Lucida Grande UI Bold
+* Menlo Regular
+* Menlo Bold
 
-**Fonts in PDFs**
-
-- Apple Symbls
-- Arial Unicode MS
-- .Keyboard
-- Lucida Grande
-- Lucida Grande Bold
-- .Lucida Grande UI
-- .Lucida Grande UI Bold
-- Menlo Regular
-- Menlo Bold
-
-###### *Leading . denotes actual hidden system font*
-
-**Filename Format**
-
-    <font name>; <version number>; <date>
-
----
-
-**Symbol Reference**
-
+**Symbol Reference Table**
 Symbol | Key | Unicode Name
 ------ | ---- | ---
 ⌘      | Command | PLACE OF INTEREST SIGN
@@ -55,21 +48,16 @@ Symbol | Key | Unicode Name
 ⇥      | Tab | RIGHTWARDS ARROW TO BAR
 fn     | Function | N/A
 
-- The Option Key on new keyboards seem to use the alternative key symbol.
-It is upside down in all fonts except *Apple Symbols*.
-- Enter ≠ Return
-  - Apple uses the left hooked arrow rather than the actual return symbol.
-- Backspace ≠ Delete
-  - The Backspace Key is labeled with the text: "Delete".
-  - The Delete Key is labeled with the "Delete" symbol.
-- The Function Key has no symbol.
+* New keyboards seem to use the alternative key symbol. It’s wider, and is not upside down in *Apple Symbols*.
+* Enter ≠ Return
+	* Apple uses the left hooked arrow rather than the actual return symbol.
+* Backspace ≠ Delete
+	* The backspace key is labeled "Delete"
+	* The delete key has the delete symbol
+* The Function Key has no symbol
 
-## Additional Resources
-
-https://developer.apple.com/fonts/
-
-https://designforhackers.com/blog/san-francisco-font/
-
-https://developer.apple.com/videos/play/wwdc2015/804/
-
-https://developer.apple.com/videos/play/wwdc2016/803/
+**Resources**
+- https://developer.apple.com/fonts/
+- https://designforhackers.com/blog/san-francisco-font/
+- https://developer.apple.com/videos/play/wwdc2015/804/
+- https://developer.apple.com/videos/play/wwdc2016/803/
