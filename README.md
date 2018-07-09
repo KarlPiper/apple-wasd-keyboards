@@ -12,7 +12,6 @@
 * Media keys—media key cluster + numpad “clear” and “enter”
 
 **Alignment**
-
 Some keys required optical centering, e.g. J, L, Q, P, F, delete.
 
 **Stylistic Alternates**
