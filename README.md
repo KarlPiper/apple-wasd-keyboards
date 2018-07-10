@@ -1,6 +1,7 @@
 # Apple WASD Keyboards—Custom Layout
 
 ![Completed keyboard template](https://raw.githubusercontent.com/KarlPiper/apple-wasd-keyboards/master/Preview.png)
+![Completed keyboard photo](https://raw.githubusercontent.com/KarlPiper/apple-wasd-keyboards/master/Final%20Product%204.png)
 
 ## About
 
