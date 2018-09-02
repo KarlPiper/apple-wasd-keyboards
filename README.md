@@ -13,7 +13,7 @@
   * No kerning issues on keys printed with words. (template does use some custom kerning)
 * Board pictured
   * WASD V2 87-Key Custom Mechanical Keyboard
-  * DIP switch arrangement, 1, and 6, active.
+  * DIP switch arrangement: 1 enabled, 2-5 disabled, 6 enabled.
 * Template used
   * wasd-ai-104-8.28.2015.ai (104/87-Key US ANSI Layout)
   * All legends for 104 key board were filled in.
