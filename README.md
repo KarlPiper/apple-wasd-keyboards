@@ -13,6 +13,7 @@
   * No kerning issues on keys printed with words. (template does use some custom kerning)
 * Board pictured
   * WASD V2 87-Key Custom Mechanical Keyboard
+  * DIP switch arrangement, 1, and 6, active.
 * Template used
   * wasd-ai-104-8.28.2015.ai (104/87-Key US ANSI Layout)
   * All legends for 104 key board were filled in.
@@ -82,6 +83,15 @@ fn     | Function | N/A
 	* The backspace key is labeled "Delete"
 	* The delete key has the delete symbol
 * The Function Key has no symbol
+
+## Supplimental Applications
+
+These are for setting up keyboard macros, shortcuts, alternate keybindings, etc.
+
+- [Karabiner Elements](https://pqrs.org/osx/karabiner/)
+- [Karabiner EventViewer](https://pqrs.org/osx/karabiner/document.html#eventviewer)
+- [Key Codes](https://manytricks.com/keycodes/)
+- [BetterTouchTool](https://folivora.ai/downloads)
 
 ## Resources
 
