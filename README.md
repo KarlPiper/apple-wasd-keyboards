@@ -84,7 +84,7 @@ fn     | Function | N/A
 	* The delete key has the delete symbol
 * The Function Key has no symbol
 
-## Supplimental Applications
+## Supplemental Applications
 
 These are for setting up keyboard macros, shortcuts, alternate keybindings, etc.
 
