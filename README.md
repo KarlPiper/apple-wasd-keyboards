@@ -57,7 +57,7 @@ Basic set of keyboard symbols were exported from the following fonts:
 
 I located the .car assets file for the Macbook Touchbar symbols, and used them instead of drawing my own.
 
-## Symbol Reference Table
+## Symbol Reference
 
 Symbol | Key | Unicode Name
 ------ | ---- | ---
@@ -83,6 +83,25 @@ fn     | Function | N/A
 	* The backspace key is labeled "Delete"
 	* The delete key has the delete symbol
 * The Function Key has no symbol
+
+## DIP Switch Reference
+
+The keyboard has six DIP switches for various functions and modes.
+
+Switch State | Function | Notes
+------ | ---- | ---
+1 off, 2 off | QWERTY mode
+1 on, 2 off | Mac mode | Swap default CMD and OPT key positions
+1 off, 2 on | Dvorak mode
+1 on, 2 on | Colemak mode
+3 off | (L) CTRL = (L) CTRL, Caps Lock = Caps Lock
+3 on | (L) CTRL = (L) CTRL, Caps Lock = (L) CTRL | Caps Lock function removed
+4 off | Scroll Lock = Scroll Lock
+4 on | Scroll Lock = OS Key Lock | Use to enable/disable OS keys
+5 off | OS Keys enabled
+5 on | OS Keys disabled | If disabled, OS Key Lock mode is disabled
+6 off | Menu Key = Menu Key
+6 on | Menu Key = Fn Key | Use to access built-in media commands
 
 ## Supplemental Applications
 
