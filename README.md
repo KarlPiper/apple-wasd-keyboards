@@ -6,17 +6,17 @@
 ## About
 
 * Print quality
-  * No line-width related issues whatsoever. If anything the look is a bit bold compared to my Macbook and old Apple keyboards. Printing in a dark grey rather than black is one way to offset this.
-  * I chose to have the funciton key row printing in white, on black keys, the printing here looks perfect. Possibly sharper and less bold; closer to the intended look.
-  * A couple keys are sligntly offcenter or have slightly heavy printing. The keys are curved though so it's forgiven.
+  * No line-width related issues whatsoever. If anything the look is a bit bold compared to my MacBook and old Apple keyboards. Printing in a dark grey rather than black is one way to offset this.
+  * I chose to have the funciton key row printing in white, on black keys, the printing here looks perfect as well. Possibly even sharper and less bold; closer to the intended look.
+  * A couple keys are ever so sligntly off-center or have slightly heavy printing. The keys, of course, are curved, so it's forgiven.
   * I suggest using a more open command symbol (⌘) than mine. The counters are slightly muddy.
-  * No kerning issues on keys printed with words. (template does use some custom kerning)
+  * No kerning issues on keys printed with words. (template does use some custom kerning, success!)
 * Board pictured
   * WASD V2 87-Key Custom Mechanical Keyboard
   * DIP switch arrangement: 1 enabled, 2-5 disabled, 6 enabled.
 * Template used
   * wasd-ai-104-8.28.2015.ai (104/87-Key US ANSI Layout)
-  * All legends for 104 key board were filled in.
+  * Legends for the full-size 104 key board were filled in.
 
 ## Character Styles
 
@@ -37,7 +37,7 @@ Some keys required optical centering, e.g. J, L, Q, P, F, delete.
 
 I chose to use the straight 6, straight 9, and slashed 0.
 “*” was switched out for SF Mono Light.
-Actual x, +, -, / characters used on numpad.
+Proper mathematical symbols (×, +, −, /) used on numpad.
 
 ## System Font Symbols
 
@@ -105,7 +105,7 @@ Switch State | Function | Notes
 
 ## Supplemental Applications
 
-These are for setting up keyboard macros, shortcuts, alternate keybindings, etc.
+For setting up keyboard macros, shortcuts, alternate keybindings, etc.
 
 - [Karabiner Elements](https://pqrs.org/osx/karabiner/)
 - [Karabiner EventViewer](https://pqrs.org/osx/karabiner/document.html#eventviewer)
