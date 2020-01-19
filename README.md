@@ -31,7 +31,7 @@
 
 ## Alignment
 
-Some keys required optical centering, e.g. J, L, Q, P, F, delete.
+Some legends required optical centering, e.g. J, L, Q, P, F, delete.
 
 ## Stylistic Alternates
 
