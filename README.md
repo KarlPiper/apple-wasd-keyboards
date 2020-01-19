@@ -6,7 +6,7 @@
 ## About
 
 * Print quality
-  * No line-width related issues whatsoever. If anything the look is a bit bold compared to my MacBook and old Apple keyboards. Printing in a dark grey rather than black is one way to offset this.
+  * No line-width related issues whatsoever. If anything the look is a bit bold compared to my MacBook and old Apple keyboards. Printing in a dark grey rather than black might offset this.
   * I chose to have the funciton key row printing in white, on black keys, the printing here looks perfect as well. Possibly even sharper and less bold; closer to the intended look.
   * A couple keys are ever so sligntly off-center or have slightly heavy printing. The keys, of course, are curved, so it's forgiven.
   * I suggest using a more open command symbol (⌘) than mine. The counters are slightly muddy.
@@ -37,7 +37,7 @@ Some keys required optical centering, e.g. J, L, Q, P, F, delete.
 
 I chose to use the straight 6, straight 9, and slashed 0.
 “*” was switched out for SF Mono Light.
-Proper mathematical symbols (×, +, −, /) used on numpad.
+Proper mathematical symbols (×, +, −, /) used on numpad (in 104 key template)
 
 ## System Font Symbols
 
@@ -76,7 +76,7 @@ Symbol | Key | Unicode Name
 ⇥      | Tab | RIGHTWARDS ARROW TO BAR
 fn     | Function | N/A
 
-* New keyboards seem to use the alternative key symbol. It’s wider, and is not upside down in *Apple Symbols*.
+* New keyboards seem to use the alternative option key symbol. When using *Apple Symbols* it will display (properly) as a wider version, rather than upside-down.
 * Enter ≠ Return
 	* Apple uses the left hooked arrow rather than the actual return symbol.
 * Backspace ≠ Delete
