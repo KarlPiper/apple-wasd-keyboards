@@ -1,25 +1,25 @@
-# Apple WASD Keyboards—Custom Layout
+# WASD Keyboards—Custom Apple Layout
 
 ![Completed keyboard template](https://raw.githubusercontent.com/KarlPiper/apple-wasd-keyboards/master/Preview.png)
 ![Completed keyboard photo](https://raw.githubusercontent.com/KarlPiper/apple-wasd-keyboards/master/Final%20Product%204.png)
 
 ## About
-
-* Print quality
-  * No line-width related issues whatsoever. If anything the look is a bit bold compared to my MacBook and old Apple keyboards. Printing in a dark grey rather than black might offset this.
-  * I chose to have the funciton key row printing in white, on black keys, the printing here looks perfect as well. Possibly even sharper and less bold; closer to the intended look.
-  * A couple keys are ever so sligntly off-center or have slightly heavy printing. The keys, of course, are curved, so it's forgiven.
-  * I suggest using a more open command symbol (⌘) than mine. The counters are slightly muddy.
-  * No kerning issues on keys printed with words. (template does use some custom kerning, success!)
-* Board pictured
-  * WASD V2 87-Key Custom Mechanical Keyboard
-  * DIP switch arrangement: 1 enabled, 2-5 disabled, 6 enabled.
 * Template used
   * wasd-ai-104-8.28.2015.ai (104/87-Key US ANSI Layout)
-  * Legends for the full-size 104 key board were filled in.
+  * Legends for the full-size 104 board are filled in.
+* Board pictured
+  * WASD V2 87-Key Custom Mechanical Keyboard
 
-## Character Styles
+## Review & Thoughts
+  * 2 year update: Sadly, the UV coating has started to age, there is yellowing on the most used keys, and coating has worn off on certain key edges. My desk is not in front of a window, and my hands are always clean. I probably wouldn't order a full white set again, unless there's a gentle way to restore them. There is no print wear or excessive shine, so that's nice.
+  * No kerning issues on keys printed with words. (I used some custom kerning, so, success!)
+  * No line-width related issues whatsoever. It's slightly bold compared to my macbook and old apple keyboards, printing in dark grey could offset this, as thinner lines might be risky.
+  * The function row is printed in reverse, and looks just as good; possibly even sharper and less bold, but that might be an optical illusion.
+  * I suggest using a more open command symbol (⌘) than mine. The counters are slightly muddy.
 
+## Design
+
+### Character Styles
 * Normal—sets SF Compact Text Light, inherited by other styles
 * Modifiers—keys with full words printed out (except media keys)
 * Functions—F keys
@@ -29,20 +29,16 @@
 * Numerator—upper character on number keys, smaller
 * Media keys—media key cluster + numpad “clear” and “enter”
 
-## Alignment
-
+### Alignment
 Some legends required optical centering, e.g. J, L, Q, P, F, delete.
 
-## Stylistic Alternates
-
+### Stylistic Alternates
 I chose to use the straight 6, straight 9, and slashed 0.
 “*” was switched out for SF Mono Light.
 Proper mathematical symbols (×, +, −, /) used on numpad (in 104 key template)
 
-## System Font Symbols
-
+### System Font Symbols
 Basic set of keyboard symbols were exported from the following fonts:
-
 * Apple Symbols
 * Arial Unicode MS
 * .Keyboard
@@ -53,12 +49,10 @@ Basic set of keyboard symbols were exported from the following fonts:
 * Menlo Regular
 * Menlo Bold
 
-## Touchbar Symbols
-
+### Touchbar Symbols
 I located the .car assets file for the Macbook Touchbar symbols, and used them instead of drawing my own.
 
-## Symbol Reference
-
+### Symbol Reference
 Symbol | Key | Unicode Name
 ------ | ---- | ---
 ⌘      | Command | PLACE OF INTEREST SIGN
@@ -84,9 +78,11 @@ fn     | Function | N/A
 	* The delete key has the delete symbol
 * The Function Key has no symbol
 
-## DIP Switch Reference
+## Resources
 
+### DIP Switch Reference
 The keyboard has six DIP switches for various functions and modes.
+My chosen arrangement: 1 enabled, 2-5 disabled, 6 enabled.
 
 Switch State | Function | Notes
 ------ | ---- | ---
@@ -103,17 +99,7 @@ Switch State | Function | Notes
 6 off | Menu Key = Menu Key
 6 on | Menu Key = Fn Key | Use to access built-in media commands
 
-## Supplemental Applications
-
-For setting up keyboard macros, shortcuts, alternate keybindings, etc.
-
-- [Karabiner Elements](https://pqrs.org/osx/karabiner/)
-- [Karabiner EventViewer](https://pqrs.org/osx/karabiner/document.html#eventviewer)
-- [Key Codes](https://manytricks.com/keycodes/)
-- [BetterTouchTool](https://folivora.ai/downloads)
-
-## Resources
-
+Reading
 - https://developer.apple.com/fonts/
 - https://designforhackers.com/blog/san-francisco-font/
 - https://developer.apple.com/videos/play/wwdc2015/804/
@@ -123,3 +109,9 @@ For setting up keyboard macros, shortcuts, alternate keybindings, etc.
 - https://github.com/jasonbraun/WASD-Mac-Layout
 - https://github.com/stevenlordiam/WASDkeyboard_for_mac
 - https://support.wasdkeyboards.com/hc/en-us/articles/115007847008-Download-Template-Files
+
+Applications
+- [Karabiner Elements](https://pqrs.org/osx/karabiner/)
+- [Karabiner EventViewer](https://pqrs.org/osx/karabiner/document.html#eventviewer)
+- [Key Codes](https://manytricks.com/keycodes/)
+- [BetterTouchTool](https://folivora.ai/downloads)
